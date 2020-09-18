@@ -1,6 +1,7 @@
 body {
   font-family: 'Josefin Sans', sans-serif;
-  padding-bottom: 6em; }
+  padding-bottom: 6em;
+  background-color: #ffdde1; }
 
 .border {
   height: 10px;
@@ -87,8 +88,8 @@ body {
   padding: 0; }
   #timeline:after {
     content: " ";
-    width: 1px;
-    background: 1px #d9dee9;
+    width: 10px;
+    background: 5px #d9dee9;
     height: 90%;
     position: absolute;
     top: 3em;
