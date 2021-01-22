@@ -1,3 +1,19 @@
 # Click_me
-Hello Codie This the template you can choose for your design . Click on this link to preview
+
+******************
+INSTALLATION AND PREREQUITS
+******************
+
+: INSTALL SCSS IN YOUR SYSTEM.
+
+: DOWNLOAD MY FILE
+
+: THIS IS TEMPLATE VIEW OF THE SITE.
+
+: THIS ARE DESIGN FREE BUT STAR THIS IF YOUR USING.
+
+: THIS IS PREVIEW OF JOBS SITE.
+
+: CHECKOUT
+
 https://yesh123456.github.io/Click_me/index.html
