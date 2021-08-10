@@ -7,7 +7,7 @@ This project is about creating a Job post theme.
 Install my-project as zip or clone.
 
 ```bash
-    git clone https://github.com/Yesh123456/todo.git
+    git clone https://github.com/Yesh123456/Click_me.git
 ```
 
 Install Sass.(For Ubuntu)
